@@ -1,0 +1,2 @@
+# brewcafe
+ai generate project
