@@ -1,0 +1,3 @@
+-- CaféConnect database schema
+-- Planned tables:
+-- Users, Menu, Orders, Order_Items, Game_Scores, Rewards
