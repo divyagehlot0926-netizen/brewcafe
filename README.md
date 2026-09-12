@@ -1,2 +1,2 @@
-# brewcafe
-ai generate project
+# AI due date manager
+
